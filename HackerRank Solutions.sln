@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-MaxSum", "Mini-MaxSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthDayCakeCandles", "BirthDayCakeCandles\BirthDayCakeCandles.csproj", "{2D5508E0-5C49-4F18-ACE1-A62E3FEE63B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{8E8100EF-D856-4B20-B6DD-D1A22478DA98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2D5508E0-5C49-4F18-ACE1-A62E3FEE63B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D5508E0-5C49-4F18-ACE1-A62E3FEE63B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D5508E0-5C49-4F18-ACE1-A62E3FEE63B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8100EF-D856-4B20-B6DD-D1A22478DA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8100EF-D856-4B20-B6DD-D1A22478DA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8100EF-D856-4B20-B6DD-D1A22478DA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8100EF-D856-4B20-B6DD-D1A22478DA98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
