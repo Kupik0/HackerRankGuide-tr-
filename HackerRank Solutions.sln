@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthDayCakeCandles", "Birt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{8E8100EF-D856-4B20-B6DD-D1A22478DA98}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WarmUp", "WarmUp", "{5DFD31EF-68DD-4DF0-85E7-389CFFDE1669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{8DB4440F-4C2F-4B57-ADE6-25F42D0B9E99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,9 +43,20 @@ Global
 		{8E8100EF-D856-4B20-B6DD-D1A22478DA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E8100EF-D856-4B20-B6DD-D1A22478DA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E8100EF-D856-4B20-B6DD-D1A22478DA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB4440F-4C2F-4B57-ADE6-25F42D0B9E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB4440F-4C2F-4B57-ADE6-25F42D0B9E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB4440F-4C2F-4B57-ADE6-25F42D0B9E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB4440F-4C2F-4B57-ADE6-25F42D0B9E99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44FA0721-005C-4A03-ABF7-C4C1CE5A2B69} = {5DFD31EF-68DD-4DF0-85E7-389CFFDE1669}
+		{085D355E-4AA1-4BE6-A5FA-97BCC6E5AD8D} = {5DFD31EF-68DD-4DF0-85E7-389CFFDE1669}
+		{4EA1997B-30E4-436D-BF8C-285514AE36BC} = {5DFD31EF-68DD-4DF0-85E7-389CFFDE1669}
+		{2D5508E0-5C49-4F18-ACE1-A62E3FEE63B9} = {5DFD31EF-68DD-4DF0-85E7-389CFFDE1669}
+		{8E8100EF-D856-4B20-B6DD-D1A22478DA98} = {5DFD31EF-68DD-4DF0-85E7-389CFFDE1669}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7759DE13-38FA-43A2-9865-0DDA4F384C5C}
