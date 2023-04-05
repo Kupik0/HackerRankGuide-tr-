@@ -23,17 +23,17 @@ class Result
      */
 
     public static List<int> gradingStudents(List<int> grades)
-    { int yuvarlanmisDeger = 0;
-     List<int> finalGrades = new List<int>();
-        for(int i = 0; i < grades.Count; i++)
+    {
+        List<int> finalGrades = new List<int>();  
+        for(int i = 0; i < grades.Count; i++) 
         {
-            if (grades[i]> 37 && 5 - grades[i] % 5 < 3)
+            if (grades[i]> 37 && 5 - grades[i] % 5 < 3) // derecenin 5 e göre modunu alıyoruz ve 3ten küçük mü diye bakıyoruz
             {
-                finalGrades.Add(grades[i] + 5 - grades[i] % 5);
+                finalGrades.Add(grades[i] + 5 - grades[i] % 5); // yuvarlanmış halini listeye ekliyoruz
             }
             else
             {
-                finalGrades.Add(grades[i]);
+                finalGrades.Add(grades[i]); // yuvarlanmamış halini listeye ekliyoruz
             }
         }
         return finalGrades;
