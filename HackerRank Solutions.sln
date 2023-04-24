@@ -17,7 +17,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WarmUp", "WarmUp", "{5DFD31
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{8DB4440F-4C2F-4B57-ADE6-25F42D0B9E99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple And Orange", "Apple And Orange\Apple And Orange.csproj", "{7813E1C9-A2EB-405D-AAEA-86E85C777252}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apple And Orange", "Apple And Orange\Apple And Orange.csproj", "{7813E1C9-A2EB-405D-AAEA-86E85C777252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangoroo", "Kangoroo\Kangoroo.csproj", "{20032D21-6333-4507-9E2F-E2F4279AFC9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,10 @@ Global
 		{7813E1C9-A2EB-405D-AAEA-86E85C777252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7813E1C9-A2EB-405D-AAEA-86E85C777252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7813E1C9-A2EB-405D-AAEA-86E85C777252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20032D21-6333-4507-9E2F-E2F4279AFC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20032D21-6333-4507-9E2F-E2F4279AFC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20032D21-6333-4507-9E2F-E2F4279AFC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20032D21-6333-4507-9E2F-E2F4279AFC9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
