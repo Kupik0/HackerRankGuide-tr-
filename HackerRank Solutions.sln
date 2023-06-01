@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Between Two Sets", "Between
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking Best And Worst Records", "BreakingBestAndWorstRecords\Breaking Best And Worst Records.csproj", "{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Birthday Bar", "The Birthday Bar\The Birthday Bar.csproj", "{174DB377-1D6C-426E-85E4-6E2A672CFEF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174DB377-1D6C-426E-85E4-6E2A672CFEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174DB377-1D6C-426E-85E4-6E2A672CFEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174DB377-1D6C-426E-85E4-6E2A672CFEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174DB377-1D6C-426E-85E4-6E2A672CFEF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
