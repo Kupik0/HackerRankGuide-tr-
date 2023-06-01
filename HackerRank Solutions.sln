@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apple And Orange", "Apple A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangoroo", "Kangoroo\Kangoroo.csproj", "{20032D21-6333-4507-9E2F-E2F4279AFC9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Between Two Sets\Between Two Sets.csproj", "{DDEA690C-64DB-4DF7-88EE-3026C9D9B175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Between Two Sets", "Between Two Sets\Between Two Sets.csproj", "{DDEA690C-64DB-4DF7-88EE-3026C9D9B175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking Best And Worst Records", "BreakingBestAndWorstRecords\Breaking Best And Worst Records.csproj", "{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +67,10 @@ Global
 		{DDEA690C-64DB-4DF7-88EE-3026C9D9B175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDEA690C-64DB-4DF7-88EE-3026C9D9B175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDEA690C-64DB-4DF7-88EE-3026C9D9B175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA30B5F2-E05A-4A55-AB4B-8F532F2E9F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
